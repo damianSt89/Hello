@@ -5,7 +5,7 @@
 int main()
 {
 
-std::cout<<"Dk"<<std::endl;
+std::cout<<"przed mergem"<<std::endl;
 
 return 0;
 }
