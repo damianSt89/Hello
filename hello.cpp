@@ -5,7 +5,7 @@
 int main()
 {
 
-std::cout<<"Damian Stasiak"<<std::endl;
+std::cout<<"Dk"<<std::endl;
 
 return 0;
 }
